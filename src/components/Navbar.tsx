@@ -14,7 +14,7 @@ function Navbar({ className }: { className?: string }) {
             <HoveredLink href="/web-dev">Web Development</HoveredLink>
             <HoveredLink href="/interface-design">Interface Design</HoveredLink>
             <HoveredLink href="/seo">Search Engine Optimization</HoveredLink>
-            <HoveredLink href="/contact">Branding</HoveredLink>
+            <HoveredLink href="/courses">Branding</HoveredLink>
           </div>
         </MenuItem>
         <MenuItem setActive={setActive} active={active} item="Pricing">

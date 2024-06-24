@@ -16,6 +16,5 @@ export default function Home() {
     <Instructors />
     <Footer />
     </main>
-
   );
 }
